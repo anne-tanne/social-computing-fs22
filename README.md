@@ -13,5 +13,4 @@ blablabl
 
 
 ## Demo
-
-![](https://c.tenor.com/K_LmfxQCbW8AAAAd/james-acaster-bakeoff-james-acaster.gif)
+![james-acaster-bakeoff-james-acaster](https://user-images.githubusercontent.com/61362884/170484197-8f1cdea3-a0b8-4928-baf1-f4867ea73f93.gif)
