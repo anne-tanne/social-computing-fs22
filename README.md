@@ -8,7 +8,8 @@ This repository contains all the code files we used to collect the data. Further
 
 
 ## Demo
-![james-acaster-bakeoff-james-acaster](https://user-images.githubusercontent.com/61362884/170484197-8f1cdea3-a0b8-4928-baf1-f4867ea73f93.gif)
+![socomp](https://user-images.githubusercontent.com/61362884/170485905-a14c9b64-effc-4790-aa11-0354c61b668a.gif)
+
 
 ## Authors
 
