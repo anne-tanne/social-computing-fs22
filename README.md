@@ -14,4 +14,4 @@ blablabl
 
 ## Demo
 
-[](https://media4.giphy.com/media/5lNqZ6xXiyQBwGaCoK/giphy.gif?cid=ecf05e47ap72txmsndq4d69wbfy5r488yzrzt3odvw8rco01&rid=giphy.gif)
+![](james-acaster-bakeoff-james-acaster.gif)
