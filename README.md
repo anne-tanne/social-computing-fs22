@@ -14,7 +14,7 @@ This repository contains all the code files we used to collect the data. Further
 
 You will find the following folders including the following files:
 
-- fluctuation_tweets → Contains the dataset with all the tweets tweeted at times of significant fluctuation.
+- `fluctuation_tweets` → Contains the dataset with all the tweets tweeted at times of significant fluctuation.
 
 
 ## Authors
