@@ -4,9 +4,6 @@
 
 **University of Zurich – Department of Informatics**
 
-**Spring Semester 2022** 
-
-
 This repository contains all the code files we used to collect the data. Furthermore, all files with the data sets we used can be found here in .JSON and .CSV file format.
 
 
@@ -15,7 +12,6 @@ This repository contains all the code files we used to collect the data. Further
 
 ## Authors
 
-Group 7
 - Samuel Rauh, 20-734-067
 - Anne-Sophie Skarabis, 20-725-487
 - Robin Hany, 19-746-759
