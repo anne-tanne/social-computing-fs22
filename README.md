@@ -6,10 +6,9 @@
 
 **Spring Semester 2022** 
 
+Group 7 - Samuel Rauh, Anne-Sophie Skarabis, Robin Hany, Joel Meier, Mathis Weber
 
-In this repository you can find all the code we used for data retrieval, data cleaning and data analysis.
-
-blablabl
+This repository contains all the code files we used to collect the data. Furthermore, all files with the data sets we used can be found here in .JSON and .CSV file format.
 
 
 ## Demo
