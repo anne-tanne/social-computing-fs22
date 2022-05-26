@@ -7,8 +7,8 @@
 This repository contains all the code files we used to collect the data. Furthermore, all files with the data sets we used can be found here in .JSON and .CSV file format.
 
 
-## Feedback
-![socomp](https://user-images.githubusercontent.com/61362884/170485905-a14c9b64-effc-4790-aa11-0354c61b668a.gif)
+## Demo
+![3rbm21](https://user-images.githubusercontent.com/61362884/170583392-eef719ee-9977-4d0c-a681-609acdf12bdd.png)
 
 ## Document Orientation
 
@@ -24,3 +24,6 @@ You will find the following folders including the following files:
 - Robin Hany, 19-746-759
 - Joel Meier, 16-916-950
 - Mathis Weber, 19-747-054
+
+## Overall Assessment
+![socomp](https://user-images.githubusercontent.com/61362884/170485905-a14c9b64-effc-4790-aa11-0354c61b668a.gif)
