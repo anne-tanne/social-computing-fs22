@@ -7,8 +7,14 @@
 This repository contains all the code files we used to collect the data. Furthermore, all files with the data sets we used can be found here in .JSON and .CSV file format.
 
 
-## Demo
+## Feedback
 ![socomp](https://user-images.githubusercontent.com/61362884/170485905-a14c9b64-effc-4790-aa11-0354c61b668a.gif)
+
+## Document Orientation
+
+You will find the following folders including the following files:
+
+- fluctuation_tweets → Contains the dataset with all the tweets tweeted at times of significant fluctuation.
 
 
 ## Authors
