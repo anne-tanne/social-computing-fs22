@@ -21,7 +21,3 @@ You will find the following folders including the following files:
 - Robin Hany, 19-746-759
 - Joel Meier, 16-916-950
 - Mathis Weber, 19-747-054
-
-## Conclusion
-![3rbm21](https://user-images.githubusercontent.com/61362884/170583392-eef719ee-9977-4d0c-a681-609acdf12bdd.png)
-
