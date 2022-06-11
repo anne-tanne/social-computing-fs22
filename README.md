@@ -10,8 +10,9 @@ This repository contains all the code files we used to collect the data. Further
 
 You will find the following folders including the following files:
 
-- `Data Collection` → Contains all the datasets
-
+- `Data Collection` → Contains all the datasets + Code for data collection
+- `Data Analysis` → Contains the code for our analysis + the visualisations + the files needed for the analyses
+- `Data Cleaning` → Contains the code for cross referencing financial data + twitter data
 
 ## Authors
 
